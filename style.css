@@ -179,7 +179,7 @@ td, th{
 /* css da página inicial*/
 .banner{
     width: 50%;
-    margin-left: 480px;
+    margin-left: 25%;
 }
 
 
@@ -223,7 +223,7 @@ td, th{
 
 .mapa{
     padding: 3em 0;
-    background: linear-gradient(#FEFEFE, #888888);
+    background: linear-gradient(#fffdeb, #fff48c);
 }
 
 
@@ -242,7 +242,7 @@ td, th{
 
 .beneficios{
     padding: 3em 0;
-    background: #888888;
+    background: #fff48c;
 }
 
 
