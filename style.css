@@ -101,7 +101,7 @@ nav a:hover{
 
 footer{
     text-align: center;
-    background: url("bg.jpg");
+    background: linear-gradient(#fff48c, #a6289c);
     padding: 40px 0;
 }
 
@@ -220,9 +220,10 @@ td, th{
 
 
 .utensilios{
-    width: 120px;
+    width: 240px;
     float: left;
     margin: 0 20px 20px 0;
+    border-radius: 15%;
 }
 
 
@@ -280,7 +281,7 @@ td, th{
     width: 60%;
     opacity: 1;
     transition: 400ms;
-    box-shadow: 10px 10px 10px #000000;
+    box-shadow: 10px 10px 1px #ffccfb;
 }
 
 
